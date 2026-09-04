@@ -30,8 +30,9 @@ The scene represents a rural village environment containing elements such as:
 
 📂 Project Structure
 
-Village-Scenario/
-│
+Village-Scenario
+
+
 ├── main.cpp
 └── README.md
 
